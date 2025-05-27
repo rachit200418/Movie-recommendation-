@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  /* background-color: drak green;
+  color: dark rgb(39, 14, 14); */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  /* background: rgb(60, 60, 224); */
+}
